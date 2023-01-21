@@ -14,9 +14,9 @@ file.close()
 
 bot = Bot(
     ":memory:",
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
+    API_ID, "23785459"
+    API_HASH, "4ad74412e0cff337b063c655bd72807d"
+    bot_token=BOT_TOKEN, "5731586246:AAFJ9yVZ26B_DU9a5z4BpoqAOkgzGHrU78Q"
     plugins=dict(root="VCsMusicBot.modules"),
 )
 
